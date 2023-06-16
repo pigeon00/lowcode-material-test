@@ -6,11 +6,11 @@
       "library": "BizComps",
       "urls": [
         "https://github.com/pigeon00/lowcode-material-test/tree/main/build/lowcode/render/default/view.js",
-        "https://github.com/pigeon00/lowcode-material-test/edit/main/build/lowcode/render/default/view.css"
+        "https://github.com/pigeon00/lowcode-material-test/tree/main/build/lowcode/render/default/view.css"
       ],
       "editUrls": [
         "hhttps://github.com/pigeon00/lowcode-material-test/tree/main/build/lowcode/view.js",
-        "https://github.com/pigeon00/lowcode-material-test/edit/main/build/lowcode/view.css"
+        "https://github.com/pigeon00/lowcode-material-test/tree/main/build/lowcode/view.css"
       ],
       "advancedUrls": {
         "default": [
