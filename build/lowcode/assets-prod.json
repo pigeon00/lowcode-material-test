@@ -5,17 +5,17 @@
       "version": "0.1.0",
       "library": "BizComps",
       "urls": [
-        "https://unpkg.com/project-material@0.1.0/build/lowcode/render/default/view.js",
-        "https://unpkg.com/project-material@0.1.0/build/lowcode/render/default/view.css"
+        "https://github.com/pigeon00/lowcode-material-test/edit/main/build/lowcode/render/default/view.js",
+        "https://github.com/pigeon00/lowcode-material-test/edit/main/build/lowcode/render/default/view.css"
       ],
       "editUrls": [
-        "https://unpkg.com/project-material@0.1.0/build/lowcode/view.js",
-        "https://unpkg.com/project-material@0.1.0/build/lowcode/view.css"
+        "hhttps://github.com/pigeon00/lowcode-material-test/edit/main/build/lowcode/view.js",
+        "https://github.com/pigeon00/lowcode-material-test/edit/main/build/lowcode/view.css"
       ],
       "advancedUrls": {
         "default": [
-          "https://unpkg.com/project-material@0.1.0/build/lowcode/render/default/view.js",
-          "https://unpkg.com/project-material@0.1.0/build/lowcode/render/default/view.css"
+          "https://github.com/pigeon00/lowcode-material-test/edit/main/build/lowcode/render/default/view.js",
+          "https://github.com/pigeon00/lowcode-material-test/edit/main/build/lowcode/render/default/view.css"
         ]
       },
       "advancedEditUrls": {}
@@ -28,21 +28,20 @@
         "package": "project-material",
         "version": "0.1.0"
       },
-      "url": "https://unpkg.com/project-material@0.1.0/build/lowcode/meta.js",
+      "url": "https://github.com/pigeon00/lowcode-material-test/edit/main/build/lowcode/meta.js",
       "urls": {
-        "default": "https://unpkg.com/project-material@0.1.0/build/lowcode/meta.js"
+        "default": "https://github.com/pigeon00/lowcode-material-test/edit/main/build/lowcode/meta.js"
       },
       "advancedUrls": {
         "default": [
-          "https://unpkg.com/project-material@0.1.0/build/lowcode/meta.js"
+          "https://github.com/pigeon00/lowcode-material-test/edit/main/build/lowcode/meta.js"
         ]
       }
     }
   ],
   "sort": {
     "groupList": [
-      "精选组件",
-      "原子组件"
+      "自定义组件"
     ],
     "categoryList": [
       "基础元素",
